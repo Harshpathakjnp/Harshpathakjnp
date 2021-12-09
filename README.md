@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Harshpathakjnp
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Harshpathakjnp@gmail.com
 
 <!---
 Harshpathakjnp/Harshpathakjnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,11 +21,11 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 
 ## 📇 Social & Contact
 <br>
-<p align="left" style="margin:5px;">
-<a href="https://twitter.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshpathakjnp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshpathakjnp" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17657195/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17657195/harshpathakjnp" height="30" width="40" /></a>
-<a href="https://fb.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshpathakjnp" height="30" width="40" /></a>
+<p align="left" >
+<a href="https://twitter.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshpathakjnp" height="30" width="40" margin: 10 px;/></a>
+<a href="https://linkedin.com/in/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshpathakjnp" height="30" width="40" margin: 10 px; /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17657195/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17657195/harshpathakjnp" height="30" width="40" margin: 10 px; /></a>
+<a href="https://fb.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshpathakjnp" height="30" width="40" margin: 10 px; /></a>
 <a href="https://instagram.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshpathakjnp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codextrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codextrian" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshpathakjnp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshpathakjnp" height="30" width="40" /></a>

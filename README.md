@@ -14,8 +14,8 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=harshpathakjnp&repo=Notes-App-using-Flutter)](https://github.com/harshpathakjnp/Notes-App-using-Flutter)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=harshpathakjnp&repo=CodeClause-Online-Musing-Streaming-Application-using-Spotify-API.github.io)](https://github.com/Harshpathakjnp/CodeClause-Online-Musing-Streaming-Application-using-Spotify-API)
-
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=harshpathakjnp&repo=CodeClause-QuizApp-with-Admin-Panel)](https://github.com/harshpathakjnp/CodeClause-QuizApp-with-Admin-Panel)
+&nbsp; &nbsp;
 
 
 
@@ -81,10 +81,10 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=harshpathakjnp&hide_border=true&show_icons=true&count_private=true" alt="Harsh Vardhan's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-harshpathakjnp.vercel.app/api?username=harshpathakjnp&hide_border=true&show_icons=true&count_private=true" alt="Harsh Vardhan's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-harshpathakjnp.vercel.app/api/top-langs/?username=harshpathakjnp&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=harshpathakjnp&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>

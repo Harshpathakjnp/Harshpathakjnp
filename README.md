@@ -20,8 +20,8 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 
 
 ## 📇 Social & Contact
-
-<p align="left">
+<br>
+<p align="left" style="margin:5px;">
 <a href="https://twitter.com/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshpathakjnp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshpathakjnp" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17657195/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17657195/harshpathakjnp" height="30" width="40" /></a>
@@ -34,7 +34,7 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 <a href="https://auth.geeksforgeeks.org/user/harshpathakjnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshpathakjnp" height="30" width="40" /></a>
 </p>
 
-
+<br>
 
 
 ## ⚙ Skills

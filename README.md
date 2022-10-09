@@ -27,7 +27,7 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
   
   <a href="https://www.linkedin.com/in/harshpathakjnp" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://github.com/harshpathakjnp" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's GitHub" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" /> </a>
+ 
   &nbsp;
   <a href="https://www.hackerrank.com/harshpathakjnp" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;

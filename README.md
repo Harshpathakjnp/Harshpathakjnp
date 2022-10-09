@@ -24,11 +24,10 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 <div align="left">
   <a href="mailto:harshpathakjnp@gmail.com" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-  &nbsp;
+  
   <a href="https://www.linkedin.com/in/harshpathakjnp" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://github.com/harshpathakjnp" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  <a href="https://github.com/harshpathakjnp" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's GitHub" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" /> </a>
   &nbsp;
   <a href="https://www.hackerrank.com/harshpathakjnp" target="_blank" rel="noreferrer"> <img alt="Harsh Vardhan's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;

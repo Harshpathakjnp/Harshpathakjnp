@@ -81,7 +81,7 @@ Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-harshpathakjnp.vercel.app/api?username=harshpathakjnp&hide_border=true&show_icons=true&count_private=true" alt="Harsh Vardhan's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=harshpathakjnp&hide_border=true&show_icons=true&count_private=true" alt="Harsh Vardhan's GitHub Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=harshpathakjnp&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>

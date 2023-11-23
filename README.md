@@ -1,4 +1,4 @@
-### Hi, I am Zhou Zhiqiang! 👋
+### Hi, I am Harsh Vardhan! 👋
 
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/STRRL?style=flat-square)](https://badges.strrl.dev)  
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/STRRL?style=flat-square)](https://badges.strrl.dev)  

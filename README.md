@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems, Currently completing my Bachelor's from MGKVP University, Varanasi Uttar Pradesh . My areas of interest are web Development and software development. Check out my [Linkedin](https://in.linkedin.com/in/harshpathakjnp) and [Projects](https://github.com/Harshpathakjnp/CodeClause-QuizApp-with-Admin-Panel) to learn more about me and my projects.
+Hi there, my name is Harsh Vardhan. I am a Programmer and like to solve problems, Currently completing my Bachelor's from MGKVP University, Varanasi Uttar Pradesh . My areas of interest are web Development and software development. Check out my [Linkedin](https://in.linkedin.com/in/harshpathakjnp) and [Projects](https://github.com/Harshpathakjnp/) to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=harshpathakjnp&repo=Notes-App-using-Flutter)](https://github.com/harshpathakjnp/Notes-App-using-Flutter)
 &nbsp; &nbsp;
